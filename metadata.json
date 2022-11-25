@@ -1,0 +1,12 @@
+{
+  "uuid": "disable-ibus-manager@qbane.github.io",
+  "name": "Disable GNOME ibus manager",
+  "description": "GNOME draws its own panel for IBus. This extension tries to block that.",
+  "url": "https://github.com/qbane/gnome-disable-ibus-manager",
+  "version": 1,
+  "shell-version": [
+    "40",
+    "42",
+    "44"
+  ]
+}
